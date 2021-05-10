@@ -14,7 +14,7 @@
     "simplebar": "^3.0.0-beta.5"
   },
   "devDependencies": {
-    "browserify": "^16.2.3",
+    "browserify": "^17.0.0",
     "browserify-css": "^0.14.0",
     "eslint": "^5.9.0",
     "eslint-config-google": "^0.11.0"
